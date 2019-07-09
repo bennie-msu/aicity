@@ -16,11 +16,13 @@ python3 setup.py install
 
 __The all required files are stored on the Google Drive__
 
-1. Add videos to aic19-track3-train-data/ or aic19-track3-train-data/
+1. Add videos to aic19-track3-train-data/ or aic19-track3-train-data/ from Lab Server;
 
-2. Add our model mask_rcnn_car_0030.h5 to model/; or train that from scratch.
+2. Train your own car-detection model with images from Lab Server;
 
-3. ```
+3. Add our model mask_rcnn_car_0030.h5 to model/; or train that from scratch.
+
+4. ```
    git clone [Our Project]
    cd codes/car_detection/
    ```
