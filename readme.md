@@ -1,4 +1,12 @@
-[TOC]
+# AICity Project Track3
+
+> Description: Through tracking cars, the algorithm can tell which is the anomaly. Anomalies usually refer to stalling cars or running-off-the-road cars. 
+
+The repo includes:
+* How to train the model of detecting cars
+* Detect cars via videos
+* Track cars
+* Judge an anomaly
 
 ### Prerequisite 
 
